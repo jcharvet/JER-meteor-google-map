@@ -1,5 +1,5 @@
 GoogleMaps.init
     sensor: false #optional
-    key: "AIzaSyDZ4qBZfVmGpDE2nvdMqhpNNb14quqgKE4" #optional
+    key: "<YOUR-GOOGLE-API-KEY>" #optional
     language: "en" #optional
     libraries: "places"
